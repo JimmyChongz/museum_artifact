@@ -1,5 +1,5 @@
 # museum_artifact
-
+Motivate: To help visually impaired individuals navigate the museum, this app provides spoken guidance, introducing exhibits and offering a navigation system for easy exploration.
 A new Flutter project.
 
 ## Getting Started
